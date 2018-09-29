@@ -1,0 +1,80 @@
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe.config
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.pdb
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csprojAssemblyReference.cache
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.g.cs
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\App.g.cs
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.cache
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.lref
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.baml
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.g.resources
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.Properties.Resources.resources
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.GenerateResource.cache
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.CoreCompileInputs.cache
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.exe
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.pdb
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Novak\Documents\Visual Studio 2017\Projects\MyGelleryExample\MyGelleryExample\obj\Debug\App.baml
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe.config
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.pdb
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csprojAssemblyReference.cache
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.g.cs
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\App.g.cs
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.cache
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.lref
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\App.baml
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.baml
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.g.resources
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.Properties.Resources.resources
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.GenerateResource.cache
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.CoreCompileInputs.cache
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.exe
+d:\Study\2018-2019\10.WPF\Lesson 6. Gallery\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.pdb
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe.config
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.pdb
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csprojAssemblyReference.cache
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.g.cs
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\App.g.cs
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.cache
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.lref
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\App.baml
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.baml
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.g.resources
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.Properties.Resources.resources
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.GenerateResource.cache
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.CoreCompileInputs.cache
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.exe
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.pdb
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\CroppingWindow.g.cs
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\CroppingWindow.baml
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\bin\Debug\CroppingImageLibrary.dll
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\bin\Debug\CroppingImageLibrary.pdb
+F:\Step_Bohdan\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.CopyComplete
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe.config
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.exe
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\bin\Debug\MyGelleryExample.pdb
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\bin\Debug\CroppingImageLibrary.dll
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\bin\Debug\CroppingImageLibrary.pdb
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csprojAssemblyReference.cache
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\CroppingWindow.g.cs
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.g.cs
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\App.g.cs
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.cache
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample_MarkupCompile.lref
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\App.baml
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\CroppingWindow.baml
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MainWindow.baml
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.g.resources
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.Properties.Resources.resources
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.GenerateResource.cache
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.csproj.CopyComplete
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.exe
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\MyGelleryExample\obj\Debug\MyGelleryExample.pdb

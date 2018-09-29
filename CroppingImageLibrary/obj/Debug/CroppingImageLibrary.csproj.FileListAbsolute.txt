@@ -1,0 +1,12 @@
+F:\Step_Bohdan\MyGelleryExample\CroppingImageLibrary\bin\Debug\CroppingImageLibrary.dll
+F:\Step_Bohdan\MyGelleryExample\CroppingImageLibrary\bin\Debug\CroppingImageLibrary.pdb
+F:\Step_Bohdan\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.csprojAssemblyReference.cache
+F:\Step_Bohdan\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.csproj.CoreCompileInputs.cache
+F:\Step_Bohdan\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.dll
+F:\Step_Bohdan\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.pdb
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\CroppingImageLibrary\bin\Debug\CroppingImageLibrary.dll
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\CroppingImageLibrary\bin\Debug\CroppingImageLibrary.pdb
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.csprojAssemblyReference.cache
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.dll
+C:\Users\user.STEP.003\Desktop\MyGelleryExample\CroppingImageLibrary\obj\Debug\CroppingImageLibrary.pdb
